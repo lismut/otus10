@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['name',['name',['../structbulk.html#a8006878b093241d142a0cd25b4f4beec',1,'bulk']]],
-  ['newstring',['newString',['../structbulkManager.html#af6d85c3f022bb746660a90b6e266c4c0',1,'bulkManager']]]
+  ['getbulk',['getBulk',['../structbulkManager.html#af6d7502c4e86b99dd14f18d5790f7cc9',1,'bulkManager']]],
+  ['getnesting',['getNesting',['../structbulkManager.html#ae628513fdd46ed39ddb8e4b3ced561c3',1,'bulkManager']]]
 ];

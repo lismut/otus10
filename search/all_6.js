@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['main',['main',['../main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../testg_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;testg.cpp']]],
-  ['main_2ecpp',['main.cpp',['../main_8cpp.html',1,'']]]
+  ['isfinish',['isFinish',['../classisubscriber.html#a2fa594349af32b6f7e795735f04fa40a',1,'isubscriber']]],
+  ['isubscriber',['isubscriber',['../classisubscriber.html',1,'isubscriber'],['../classisubscriber.html#a5d29d70f035cea55768631365e1f257d',1,'isubscriber::isubscriber()']]]
 ];

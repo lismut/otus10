@@ -61,19 +61,23 @@ $(function() {
 </div><!-- top -->
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a>  </div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
 <div class="title">subscriber.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="bulk_8h_source.html">bulk.h</a>&quot;</code><br />
-<code>#include &quot;fstream&quot;</code><br />
+<code>#include &lt;fstream&gt;</code><br />
+<code>#include &lt;thread&gt;</code><br />
+<code>#include &quot;<a class="el" href="threadqueue_8h_source.html">threadqueue.h</a>&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for subscriber.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="subscriber_8h__incl.png" border="0" usemap="#subscriber_8h" alt=""/></div>
 <map name="subscriber_8h" id="subscriber_8h">
-<area shape="rect" id="node2" href="bulk_8h.html" title="bulk.h" alt="" coords="129,80,191,107"/>
+<area shape="rect" id="node2" href="bulk_8h.html" title="bulk.h" alt="" coords="129,155,191,181"/>
+<area shape="rect" id="node9" href="threadqueue_8h.html" title="threadqueue.h" alt="" coords="338,80,454,107"/>
 </map>
 </div>
 </div><div class="textblock"><div class="dynheader">
@@ -100,7 +104,27 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfiler.html">filer</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Класс-подписчик для вывода в файл  <a href="classfiler.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a90bd8c1a918d8a3bb5cdc4719050f9c8"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="subscriber_8h.html#a90bd8c1a918d8a3bb5cdc4719050f9c8">globalCoutMutex</a></td></tr>
+<tr class="separator:a90bd8c1a918d8a3bb5cdc4719050f9c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a90bd8c1a918d8a3bb5cdc4719050f9c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a90bd8c1a918d8a3bb5cdc4719050f9c8">&#9670;&nbsp;</a></span>globalCoutMutex</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::mutex globalCoutMutex</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

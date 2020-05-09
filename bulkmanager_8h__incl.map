@@ -1,4 +1,5 @@
 <map id="bulkmanager.h" name="bulkmanager.h">
-<area shape="rect" id="node3" href="$bulk_8h.html" title="bulk.h" alt="" coords="129,155,191,181"/>
-<area shape="rect" id="node8" href="$subscriber_8h.html" title="subscriber.h" alt="" coords="198,80,298,107"/>
+<area shape="rect" id="node3" href="$bulk_8h.html" title="bulk.h" alt="" coords="293,229,355,256"/>
+<area shape="rect" id="node8" href="$subscriber_8h.html" title="subscriber.h" alt="" coords="239,80,339,107"/>
+<area shape="rect" id="node11" href="$threadqueue_8h.html" title="threadqueue.h" alt="" coords="82,155,198,181"/>
 </map>

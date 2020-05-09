@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['output',['output',['../structbulk.html#a8f6a722e615bd497e1bd7e88c7978801',1,'bulk']]]
+  ['isubscriber',['isubscriber',['../classisubscriber.html#a5d29d70f035cea55768631365e1f257d',1,'isubscriber']]]
 ];

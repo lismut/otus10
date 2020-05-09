@@ -1,5 +1,6 @@
 <map id="main.cpp" name="main.cpp">
-<area shape="rect" id="node3" href="$bulkmanager_8h.html" title="bulkmanager.h" alt="" coords="110,80,229,107"/>
-<area shape="rect" id="node5" href="$bulk_8h.html" title="bulk.h" alt="" coords="138,229,201,256"/>
-<area shape="rect" id="node10" href="$subscriber_8h.html" title="subscriber.h" alt="" coords="207,155,307,181"/>
+<area shape="rect" id="node3" href="$bulkmanager_8h.html" title="bulkmanager.h" alt="" coords="259,80,378,107"/>
+<area shape="rect" id="node5" href="$bulk_8h.html" title="bulk.h" alt="" coords="129,304,191,331"/>
+<area shape="rect" id="node10" href="$subscriber_8h.html" title="subscriber.h" alt="" coords="185,155,285,181"/>
+<area shape="rect" id="node13" href="$threadqueue_8h.html" title="threadqueue.h" alt="" coords="295,229,411,256"/>
 </map>

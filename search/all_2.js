@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['filer',['filer',['../classfiler.html',1,'']]],
-  ['finish',['finish',['../structbulkManager.html#ab24788fb151a14ca3cbeef9f2cb7c3ae',1,'bulkManager']]]
+  ['data',['data',['../classQueueItem.html#a96bce27e40f25e04075c4eda10704e1a',1,'QueueItem']]],
+  ['dequeue',['dequeue',['../classQueue.html#ab65a47baeedcace2b58b0ba51eef2e75',1,'Queue']]]
 ];
